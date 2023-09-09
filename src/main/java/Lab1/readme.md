@@ -3,4 +3,4 @@ This is my first lab in Comp3111 - Software Enginnering
 2. I have successfully created my first GitHub to share project source with others;
 
 Here's the screenshot of my 1st lab project in intelliJ;
-<img src="C:\Users\klau0\Downloads\comp3111lab.jpg" title="Screenshot of IntelliJ"/>
+![Screenshot of Comp 3111](/comp3111lab.jpg)
